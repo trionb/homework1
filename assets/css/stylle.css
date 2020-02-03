@@ -7,40 +7,23 @@
 body {
     background-color: #d9dcd6;
 }
-<<<<<<< HEAD:assets/css/style.css
-
 header {
-=======
-.header {
->>>>>>> c4e57df54a4ae82de0ce9323a69050b11c2e1d97:stylle.css
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-<<<<<<< HEAD:assets/css/style.css
 header h1 {
-=======
-.header h1 {
->>>>>>> c4e57df54a4ae82de0ce9323a69050b11c2e1d97:stylle.css
     display: inline-block;
     font-size: 48px;
 }
 
-<<<<<<< HEAD:assets/css/style.css
 header h1 .seo {
     color: #d9dcd6;
 }
 
 header nav {
-=======
-.header h1 .seo {
-    color: #d9dcd6;
-}
-
-.header div {
->>>>>>> c4e57df54a4ae82de0ce9323a69050b11c2e1d97:stylle.css
     padding-top: 15px;
     margin-right: 20px;
     float: right;
